@@ -1,0 +1,6 @@
+{
+  "name": "WaferGuard AI",
+  "description": "Engineering prototype and decision-support tool for semiconductor wafer die defect-rate analysis, test-wafer prediction, lithography monitoring, and cleanroom environmental analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
